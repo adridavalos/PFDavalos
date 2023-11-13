@@ -1,0 +1,22 @@
+
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+@import "fonts";
+/*VARIABLES*/
+@import "variables";
+
+/*MIXINS*/
+@import "mixins";
+
+/*PARTIALS*/
+@import "header";
+@import "mainIndex";
+@import "mainAdoptame";
+@import "mainAdoptar";
+@import "mainColabora";
+@import "mainContacto";
+
+/*MEDIAQUERIES*/
+@import "mediaqueries";

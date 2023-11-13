@@ -1,0 +1,12 @@
+/*Contenido principal Colabora*/
+
+.comoAyudar{
+    @include texto-tamanio-color-tipo(center,0%,0%,2%,1%,black,$fontTitulo);
+}
+
+.contactoAyuda{
+    font-family:$fontParrafo;
+    font-weight: 1000;
+    text-align: center;
+    padding: 40px;  
+}
